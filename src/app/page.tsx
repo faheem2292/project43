@@ -12,7 +12,7 @@ const Library = () => {
       <section className="flex flex-col md:flex-row items-center justify-between px-8 py-16 gap-10">
         {/* Left Image */}
         <img
-          src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
+          src="aaaa.jpg"
           alt="Library"
           className="w-full md:w-1/2 rounded-lg shadow-lg"
         />
